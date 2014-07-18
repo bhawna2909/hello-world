@@ -1,0 +1,9 @@
+this is a new file 
+<<<<<<< HEAD
+next line
+i am adding another line
+=======
+next lin
+>>>>>>> 1379d8354beb5a09bf35afa30cd5f93d2b14d1ec
+
+deleting thise
